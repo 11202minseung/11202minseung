@@ -1,4 +1,11 @@
-### Hi there 👋
+imgae<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chewy&color=337edd&size=30&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80This_is_Minseung_Kim.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+<h1 display="flex" align="center">👋  My name is minseung and I am a first year developer.</h1>
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=11202minseung&label=Profile%20views&color=0e75b6&style=flat" alt="wlstmd" /> </p>
+
+![](https://github-profile-trophy.vercel.app/?username=11202minseung&row=1&column=8&theme=nord) 
 
 <!--
 **11202minseung/11202minseung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+대단하십니다
